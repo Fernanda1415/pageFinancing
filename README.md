@@ -1,2 +1,2 @@
 # pageFinancing
-# Primera página designada para servicio social
+ Primera página designada para servicio social
